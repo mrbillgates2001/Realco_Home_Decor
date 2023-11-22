@@ -648,6 +648,7 @@ header .header-content nav ul #menu {
   line-height: 27px; /* 150% */
   max-width: 754px;
   width: 100%;
+  padding: 0 20px !important;
 }
 .how-it-works .how-it-works-content .how-cards {
   display: flex;
